@@ -1,0 +1,22 @@
+.nav{
+    text-align: center;
+    margin-top: 90px;
+    
+}
+.header{
+    background-color: rgb(8, 67, 144);
+    color: black;
+    text-align: center;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+     background-color: aqua;
+}
+.ion{
+    text-align: center;
+}
